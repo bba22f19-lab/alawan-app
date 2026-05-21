@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#0d1b2a"/>
+  <rect x="18" y="18" width="476" height="476" rx="92" fill="#1a2e42"/>
+  <rect x="18" y="18" width="476" height="10" rx="5" fill="#c9963a"/>
+  <rect x="18" y="484" width="476" height="10" rx="5" fill="#c9963a"/>
+  <!-- Truck -->
+  <path d="M390 208h-62V168H88c-18 0-32 14-32 32v128h32c0 28 22.4 50 50 50s50-22.4 50-50h108c0 28 22.4 50 50 50s50-22.4 50-50h32V260l-38-52z" fill="#c9963a"/>
+  <path d="M138 318c0 13.8-11.2 25-25 25s-25-11.2-25-25 11.2-25 25-25 25 11.2 25 25z" fill="#1a2e42"/>
+  <path d="M346 318c0 13.8-11.2 25-25 25s-25-11.2-25-25 11.2-25 25-25 25 11.2 25 25z" fill="#1a2e42"/>
+  <path d="M328 208l36 52h-64v-52h28z" fill="#0d1b2a" opacity="0.4"/>
+  <!-- Text -->
+  <text x="256" y="405" font-family="Georgia,serif" font-size="58" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="3">AL AWAN</text>
+  <text x="256" y="448" font-family="Arial,sans-serif" font-size="28" fill="#c9963a" text-anchor="middle" letter-spacing="4">ENTERPRISES</text>
+</svg>
